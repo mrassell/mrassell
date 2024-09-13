@@ -12,7 +12,7 @@
 
 <hr>
 
-<h2>Technologies</h2>
+<h3>Technologies</h3>
 <p>
   <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase" style="display: inline-block; margin-right: 10px;">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python" style="display: inline-block; margin-right: 10px;">
@@ -22,9 +22,3 @@
   <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Vercel" style="display: inline-block;">
 </p>
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrassell" alt="Top Languages">
-  </a>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjQwenliZmZzeWdvNGFqNjlzZ3RvZ3hleXMwenc5c3V0MHl0bWJrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="150" style="margin-left: 20px;">
-</div>
