@@ -8,11 +8,6 @@
 
 <hr>
 
-<p>Outside of coding, I enjoy filmmaking, basketball, and ultimate frisbee!</p>
-
-<hr>
-
-
 <h3>Connect with me on LinkedIn</h3>
 <p>
   <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
@@ -32,3 +27,8 @@
   <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Vercel" style="display: inline-block;">
 </p>
 
+<hr>
+
+<p>Outside of coding, I enjoy filmmaking, basketball, and ultimate frisbee!</p>
+
+<hr>
