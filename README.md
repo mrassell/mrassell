@@ -2,7 +2,7 @@
 
 <p>I'm Maheen, studying Computer and Data Science at NYU. I love exploring new things and working on full-stack projects. Recently, I began to immerse myself in the world of machine learning and artificial intelligence. See my most recent work <a href="https://ordinary-health-cab.notion.site/Image-Classification-Neural-Network-FROM-SCRATCH-72aa4de370f54d5d8a30dd50da0a92f3?pvs=4">here</a>!</p>
 
-<p><b>Portfolio:</b> <a href="https://your-portfolio-link.com">Visit My Portfolio</a></p>
+<p><b>Visit my portfolio</b> <a href="https://mrassell.com">here</a></p>
 
 <hr>
 
