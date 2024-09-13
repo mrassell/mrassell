@@ -4,7 +4,8 @@
 
 <hr>
 
-<p><b>Visit my portfolio</b> <a href="https://mrassell.com">here</a></p>
+<h2>Visit my portfolio</h2>
+<p><a href="https://mrassell.com">Here</a></p>
 
 <hr>
 
@@ -13,7 +14,6 @@
 <hr>
 
 <h2>Technologies</h2>
-<p>Here are some technologies I work with:</p>
 <p>
   <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase">
 </p>
