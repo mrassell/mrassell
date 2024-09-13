@@ -4,6 +4,10 @@
 
 <hr>
 
+<p><b>Technologies: 	![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)</b> <a </p>
+
+<hr>
+
 <p><b>Visit my portfolio</b> <a href="https://mrassell.com">here</a></p>
 
 <hr>
