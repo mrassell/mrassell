@@ -4,15 +4,19 @@
 
 <hr>
 
-<p><b>Technologies: 	![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)</b> <a </p>
-
-<hr>
-
 <p><b>Visit my portfolio</b> <a href="https://mrassell.com">here</a></p>
 
 <hr>
 
 <p>Outside of coding, I enjoy filmmaking, basketball, and ultimate frisbee!</p>
+
+<hr>
+
+<h2>Technologies</h2>
+<p>Here are some technologies I work with:</p>
+<p>
+  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase">
+</p>
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
