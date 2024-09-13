@@ -8,6 +8,11 @@
 
 <hr>
 
-<p>Outside of coding, I enjoy filmmaking, basketball, and ultimate frisbee.</p>
+<p>Outside of coding, I enjoy filmmaking, basketball, and ultimate frisbee!</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrassell)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; align-items: center; justify-content: center;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrassell" alt="Top Languages">
+  </a>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjQwenliZmZzeWdvNGFqNjlzZ3RvZ3hleXMwenc5c3V0MHl0bWJrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="150" style="margin-left: 20px;">
+</div>
