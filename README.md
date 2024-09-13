@@ -4,7 +4,9 @@
 
 <hr>
 
-<h2 style="display: inline;">My Portfolio:</h2> <a href="https://mrassell.com">Here</a>
+<h2 style="display: inline;">Visit my portfolio</h2> <a href="https://mrassell.com">Here</a>
+
+<hr>
 
 <p>Outside of coding, I enjoy filmmaking, basketball, and ultimate frisbee!</p>
 
