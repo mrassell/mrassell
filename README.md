@@ -4,7 +4,7 @@
 
 <hr>
 
-<p><b>Visit my portfolio</b> <a href="https://mrassell.com">here</a></p>
+<h2>Visit my portfolio<h2> <h2 href="https://mrassell.com">here<h2></p>
 
 <hr>
 
