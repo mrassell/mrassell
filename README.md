@@ -4,8 +4,7 @@
 
 <hr>
 
-<h2>Visit my portfolio</h2>
-<p><a href="https://mrassell.com">Here</a></p>
+<h2 style="display: inline;">Visit my portfolio</h2> <a href="https://mrassell.com">Here</a>
 
 <hr>
 
