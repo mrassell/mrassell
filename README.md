@@ -8,12 +8,7 @@
 
 <hr>
 
-<h3>Connect with me on LinkedIn</h3>
-<p>
-  <a href="https://www.linkedin.com/in/maheen-rassell-41a2a1237/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+<p>Outside of coding, I enjoy filmmaking, basketball, and ultimate frisbee!</p>
 
 <hr>
 
@@ -21,14 +16,15 @@
 <p>
   <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase" style="display: inline-block; margin-right: 10px;">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python" style="display: inline-block; margin-right: 10px;">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=ffffff" alt="Java" style="display: inline-block; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/java-FF7800?style=for-the-badge&logo=java&logoColor=ffffff" alt="Java" style="display: inline-block; margin-right: 10px;">
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff" alt="Node.js" style="display: inline-block; margin-right: 10px;">
-  <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express.js" style="display: inline-block; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/express.js-006400?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express.js" style="display: inline-block; margin-right: 10px;">
   <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Vercel" style="display: inline-block;">
 </p>
 
-<hr>
-
-<p>Outside of coding, I enjoy filmmaking, basketball, and ultimate frisbee!</p>
-
-<hr>
+<h3>Connect with me on LinkedIn</h3>
+<p>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
