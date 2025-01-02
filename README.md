@@ -8,8 +8,6 @@
 
 <hr>
 
-<p>Outside of coding, I enjoy filmmaking, basketball, and ultimate frisbee!</p>
-
 <hr>
 
 <h3>Technologies</h3>
