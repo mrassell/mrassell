@@ -11,8 +11,6 @@
   <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase" style="display: inline-block; margin-right: 10px;">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python" style="display: inline-block; margin-right: 10px;">
   <img src="https://img.shields.io/badge/java-FF7800?style=for-the-badge&logo=java&logoColor=ffffff" alt="Java" style="display: inline-block; margin-right: 10px;">
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff" alt="Node.js" style="display: inline-block; margin-right: 10px;">
-  <img src="https://img.shields.io/badge/express.js-006400?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express.js" style="display: inline-block; margin-right: 10px;">
   <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Vercel" style="display: inline-block; margin-right: 10px;">
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff" alt="Next.js" style="display: inline-block; margin-right: 10px;">
   <img src="https://img.shields.io/badge/postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff" alt="Postgres" style="display: inline-block; margin-right: 10px;">
@@ -21,10 +19,10 @@
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff" alt="Docker" style="display: inline-block; margin-right: 10px;">
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="Typescript" style="display>
 </p>
-    
+
 <h3>Connect with me on LinkedIn</h3>
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/mrassell" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
