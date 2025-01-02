@@ -23,6 +23,6 @@
 <h3>Connect with me on LinkedIn</h3>
 <p>
   <a href="https://www.linkedin.com/in/mrassell" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="display: inline-block;">
   </a>
 </p>
