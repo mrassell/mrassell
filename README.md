@@ -20,8 +20,8 @@
   <img src="https://img.shields.io/badge/react%20native-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React Native" style="display: inline-block; margin-right: 10px;">
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff" alt="Docker" style="display: inline-block; margin-right: 10px;">
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="Typescript" style="display>
-</p>
-
+    
+<p>
 <h3>Connect with me on LinkedIn</h3>
 <p>
   <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
