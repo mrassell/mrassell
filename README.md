@@ -6,10 +6,6 @@
 
 <p><b>Visit my portfolio</b> <a href="https://mrassell.com">here</a></p>
 
-<hr>
-
-<hr>
-
 <h3>Technologies</h3>
 <p>
   <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase" style="display: inline-block; margin-right: 10px;">
