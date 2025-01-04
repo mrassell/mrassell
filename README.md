@@ -8,7 +8,7 @@
 
 <h3>Technologies</h3>
 <p>
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" style="display: inline-block; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/firebase-FF0000?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" style="display: inline-block; margin-right: 10px;">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="display: inline-block; margin-right: 10px;">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" style="display: inline-block; margin-right: 10px;">
   <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" style="display: inline-block; margin-right: 10px;">
