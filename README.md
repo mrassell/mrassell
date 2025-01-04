@@ -22,6 +22,8 @@
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" style="display: inline-block; margin-right: 10px;">
 </p>
 
+<hr>
+
 <h3>Connect with me on LinkedIn</h3>
 <p>
   <a href="https://www.linkedin.com/in/mrassell" target="_blank">
