@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi, I'm Maheen Rassell </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p>I'm Maheen, doing my masters at Harvard in edtech! I graduated from NYU early with a degree in CS and Data Science. I love machine learning projects and working on full stack projects. Also pursuing NLP research targeting ICLR! See one of my projects here!<a href="https://ordinary-health-cab.notion.site/Image-Classification-Neural-Network-FROM-SCRATCH-72aa4de370f54d5d8a30dd50da0a92f3?pvs=4">here</a>!</p>
+<p>I'm Maheen, doing my masters at Harvard in edtech! I graduated from NYU early with a degree in CS and Data Science. I love machine learning projects and working on full stack projects. Also pursuing NLP research targeting ICLR! See one of my projects <a href="https://ordinary-health-cab.notion.site/Image-Classification-Neural-Network-FROM-SCRATCH-72aa4de370f54d5d8a30dd50da0a92f3?pvs=4">here</a>!</p>
 
 <hr>
 
